@@ -3,6 +3,9 @@ Analysis of Public Schools in Ontario
 
 •	Created an interactive Tableau storyboard to analyze Public schools in Ontario. Used Python libraries to scrape the data from web and clean, process and load the data into databases which is visualized in Tableau storyboard. 
 
+
+•	Built a machine learning model to predict performance of a school based on characteristics of school and demographics.
+
 •	Technologies used: Python (Pandas, Beautiful Soup, Matplotlib, sqlalchemy, pymongo, Natural Language Toolkit, scikit-learn), MySQL, MongoDb, Tableau
 
 				
